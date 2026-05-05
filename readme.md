@@ -1,4 +1,10 @@
 # 🧬 ProteinScope: Mutation & Pathogen Detection Dashboard
+# ProteinScope Command Center 🧬
+Advanced Molecular Alignment & Bio-Threat Assessment System
+
+### How to Run Locally:
+1. Open terminal and install requirements: `pip install -r requirements.txt`
+2. Run the app: `streamlit run app.py`
 
 > Real-time 3D protein structural comparison and pathogenicity prediction in your browser.
 
